@@ -1,0 +1,59 @@
+html{
+    background-color: black;
+    color: white;
+
+
+.container{
+    text-align: left;
+    padding: 10px;
+    
+    
+}
+
+.box{
+   
+    display: flex;
+    background-color: #2e2d2d;
+}
+
+img{
+
+}
+
+p{
+    background-color: #2e2d2d;
+    padding: 15px;
+    margin-bottom: 100px;
+    
+
+}
+
+section{
+    margin-top: -100px;
+    padding: 10px;
+
+}
+
+.skills{
+   
+    display: flex;
+    background-color: #2e2d2d;
+
+}
+
+.moreskills{
+   
+    display: flex;
+    background-color: #2e2d2d;
+    margin-top: -90px;
+
+}
+
+@media screen and (min-width: 80rem) {
+    
+.container {
+    display: block;
+    
+  }
+
+
